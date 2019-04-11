@@ -52,6 +52,7 @@
   background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
   color: black;
   padding-top: 5%;
+  width: auto;
 }
 .promo-title {
   font-size: 40px;
